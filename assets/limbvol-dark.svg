@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="114" viewBox="0 0 164 114" role="img" aria-label="LimbVolScanner: 3D limb-volume scanner for iPhone">
+<title>LimbVolScanner</title>
+<style>text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Inter', 'Segoe UI', system-ui, sans-serif; }</style>
+<g transform="translate(0 14)">
+  <rect x="0.5" y="0.5" width="149" height="99" rx="18" fill="#1C1C1E"/>
+  <rect x="0.5" y="0.5" width="149" height="99" rx="18" fill="none" stroke="rgba(255,255,255,0.10)"/>
+  <text x="14" y="29" font-size="14.5" font-weight="600" letter-spacing="-0.022em" fill="#F5F5F7">LimbVolScanner</text>
+  <text y="48" font-size="11" letter-spacing="0.004em" fill="rgba(235,235,245,0.62)"><tspan x="14" dy="0">3D limb-volume</tspan><tspan x="14" dy="14.5">scanner for iPhone</tspan></text>
+  <text x="14" y="86" font-size="10.5" font-weight="500" letter-spacing="0.01em" fill="rgba(235,235,245,0.45)">Swift · iOS</text>
+</g>
+<circle cx="144" cy="19" r="14" fill="#1C1C1E" stroke="rgba(255,255,255,0.10)"/><text x="144" y="19" text-anchor="middle" dominant-baseline="central" font-size="14" style="font-family: 'Apple Color Emoji', 'Segoe UI Emoji', 'Noto Color Emoji', sans-serif">📷</text>
+</svg>
