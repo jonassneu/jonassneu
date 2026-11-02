@@ -1,3 +1,3 @@
 ### Hi, I'm Jonas.
 
-<a href="mailto:jonaspaul.neubauer@gmail.com?subject=Hi%20Jonas"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg"><img src="assets/contact-light.svg" width="112" alt="Contact me"></picture></a>
+<a href="mailto:jonaspaul.neubauer@gmail.com?subject=Hi%20Jonas"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg"><img src="assets/contact-light.svg" width="290" alt="Contact me: jonaspaul.neubauer@gmail.com"></picture></a>
