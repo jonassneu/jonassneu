@@ -1,4 +1,4 @@
-<img src="assets/duo.png" align="right" width="240" alt="">
+<img src="assets/duo.png" align="right" height="100" alt="">
 
 ### Hi, I'm Jonas.
 
